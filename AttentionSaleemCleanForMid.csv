@@ -1,0 +1,308 @@
+,first_name,second_name,goals_scored,assists,total_points,minutes,goals_conceded,creativity,influence,threat,bonus,bps,ict_index,clean_sheets,red_cards,yellow_cards,selected_by_percent,now_cost,element_type,name
+2,Mohamed,Elneny,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Mohamed Elneny
+3,Fabio,Vieira,0,3,11,47,1,27.5,41,29,0,37,9.7,0,0,0,0.1,54,MID,Fábio Ferreira Vieira
+5,Kai,Havertz,0,0,7,311,3,80,22.6,55,0,17,15.7,1,0,1,2.2,73,MID,Kai Havertz
+7,Jorge Luiz,Frello Filho,0,0,3,18,1,7.3,8,0,0,12,1.5,0,0,0,0.2,54,MID,Jorge Luiz Frello Filho
+9,Marcus,Oliveira Alencar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,45,MID,Marcus Oliveira Alencar
+10,Gabriel,Martinelli,0,2,15,333,4,85.2,59.8,127,0,59,27.2,1,0,0,10.4,79,MID,Gabriel Martinelli Silva
+12,Martin,Odegaard,2,0,22,352,3,61,106.6,105,3,77,27.2,1,0,0,21.3,85,MID,Martin Ødegaard
+13,Thomas,Partey,0,0,6,235,2,58.2,53.4,15,0,55,12.7,1,0,0,0.3,49,MID,Thomas Partey
+14,Nicolas,Pepe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,49,MID,Nicolas Pépé
+17,Bukayo,Saka,2,1,25,358,4,207.9,150.4,166,4,100,52.4,1,0,1,65.7,87,MID,Bukayo Saka
+19,Emile,Smith Rowe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,53,MID,Emile Smith Rowe
+22,Leandro,Trossard,0,0,2,62,2,54.7,14.8,10,0,18,7.9,0,0,0,2.1,67,MID,Leandro Trossard
+24,Granit,Xhaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,MID,Granit Xhaka
+27,Declan,Rice,1,0,17,360,4,35.8,107.8,57,3,89,20.1,1,0,0,5,54,MID,Declan Rice
+28,Reiss,Nelson,0,0,1,1,0,0.8,2.2,4,0,4,0.7,0,0,0,0,49,MID,Reiss Nelson
+32,Leon,Bailey,1,1,16,153,4,31.7,57.8,31,3,47,12,1,0,0,1.7,55,MID,Leon Bailey
+33,Emiliano,Buendia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,58,MID,Emiliano Buendía Stati
+36,Philippe,Coutinho Correia,0,0,2,24,1,2.8,4,12,0,7,1.8,0,0,0,0.3,59,MID,Philippe Coutinho Correia
+38,Leander,Dendoncker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Leander Dendoncker
+41,Douglas Luiz,Soares de Paulo,1,0,12,309,9,72.9,73.8,40,0,71,18.6,1,0,2,2,54,MID,Douglas Luiz Soares de Paulo
+44,Tim,Iroegbunam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Tim Iroegbunam
+45,Boubacar,Kamara,0,0,9,360,9,55.9,39,9,1,57,10.4,1,0,1,0.1,50,MID,Boubacar Kamara
+48,John,McGinn,1,0,16,333,7,52.1,55.8,62,2,62,17,1,0,0,0.6,55,MID,John McGinn
+51,Jaden,Philogene-Bidace,0,0,1,3,1,0.3,0.4,2,0,3,0.3,0,0,0,0.1,45,MID,Jaden Philogene-Bidace
+52,Jacob,Ramsey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,59,MID,Jacob Ramsey
+53,Morgan,Sanson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Morgan Sanson
+55,Youri,Tielemans,0,0,4,94,3,14.9,10.2,2,0,18,2.7,0,0,0,0.7,58,MID,Youri Tielemans
+56,Bertrand,Traore,0,0,1,9,0,0,0,0,0,3,0,0,0,0,0,50,MID,Bertrand Traoré
+60,Moussa,Diaby,2,1,24,311,8,90.1,109.6,105,2,81,30.5,1,0,0,9.5,66,MID,Moussa Diaby
+61,Omari,Kellyman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Omari Kellyman
+63,Nicolo,Zaniolo,0,0,2,42,0,21.7,9.8,8,0,4,3.9,0,0,0,0,55,MID,Nicolò Zaniolo
+66,Jaidon,Anthony,0,0,3,151,5,4.6,9,16,0,4,3,0,0,1,0.1,49,MID,Jaidon Anthony
+67,Philip,Billing,0,0,8,355,8,80.9,63.8,64,0,39,20.8,0,0,0,0.5,53,MID,Philip Billing
+68,David,Brooks,1,0,12,135,2,43.1,45.8,59,2,39,14.8,0,0,0,0.1,49,MID,David Brooks
+69,Ryan,Christie,0,0,7,273,6,53.2,35.4,52,0,30,14.1,0,0,0,0,50,MID,Ryan Christie
+70,Lewis,Cook,0,0,3,135,3,3.6,21.2,1,0,13,2.6,0,0,0,0,50,MID,Lewis Cook
+71,Siriki,Dembele,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Siriki Dembélé
+75,Gavin,Kilkenny,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Gavin Kilkenny
+76,Justin,Kluivert,0,0,5,186,2,36.2,16,37,0,1,9,0,0,0,0.3,48,MID,Justin Kluivert
+77,Jamal,Lowe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Jamal Lowe
+78,Emiliano,Marcondes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Emiliano Marcondes
+82,Dango,Ouattara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Dango Ouattara
+83,Ben,Pearson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Ben Pearson
+85,Joe,Rothwell,0,0,5,210,5,28.1,24.2,3,0,25,5.5,0,0,0,0,50,MID,Joe Rothwell
+90,Marcus,Tavernier,0,1,4,19,1,10.3,17.4,2,0,16,3,0,0,0,0,54,MID,Marcus Tavernier
+91,Hamed,Traore,0,0,2,36,1,14.7,12.6,28,0,7,5.5,0,0,0,0,49,MID,Hamed Traorè
+98,Alex,Scott,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Alex Scott
+99,Tyler,Adams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Tyler Adams
+100,Luis,Sinisterra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,MID,Luis Sinisterra
+103,Shandon,Baptiste,0,0,1,18,0,0,2.2,0,0,3,0.2,0,0,0,1.6,44,MID,Shandon Baptiste
+105,Mads,Bidstrup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Mads Bidstrup
+106,Sergi,Canós Tenés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Sergi Canós Tenés
+109,Mikkel,Damsgaard,0,0,2,52,0,3.3,10.4,17,0,4,3.1,0,0,0,0.1,49,MID,Mikkel Damsgaard
+110,Josh,Dasilva,0,0,1,9,0,0,0,2,0,3,0.1,0,0,0,0.1,48,MID,Josh Dasilva
+116,Vitaly,Janelt,0,0,9,340,4,32,32.2,47,0,30,11.1,1,0,0,0.1,54,MID,Vitaly Janelt
+117,Mathias,Jensen,1,1,19,289,4,126.1,82.2,36,3,75,24.4,2,0,1,0.7,54,MID,Mathias Jensen
+118,Keane,Lewis-Potter,0,0,3,48,1,1.9,3,38,0,-1,4,0,0,0,0,49,MID,Keane Lewis-Potter
+119,Bryan,Mbeumo,4,0,33,360,5,108.6,164,159,4,89,43.1,1,0,0,26.9,68,MID,Bryan Mbeumo
+121,Christian,Noorgaard,0,1,12,329,5,67.6,80.8,41,0,61,19,1,0,0,0.2,55,MID,Christian Nørgaard
+122,Frank,Onyeka,0,0,2,37,2,55.6,19.4,25,0,14,10,0,0,0,0,49,MID,Frank Onyeka
+125,Kevin,Schade,1,1,18,237,2,41.5,48.2,58,2,38,14.6,1,0,0,0.2,54,MID,Kevin Schade
+128,Ryan,Trevitt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Ryan Trevitt
+130,Yegor,Yarmolyuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,44,MID,Yegor Yarmolyuk
+133,Michale,Olakigbe,0,0,1,8,0,0.8,0.6,7,0,1,0.8,0,0,0,0,45,MID,Michale Olakigbe
+134,Ethan,Brierley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Ethan Brierley
+135,Saman,Ghoddos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Saman Ghoddos
+136,Simon,Adingra,1,0,8,35,2,14.7,42,50,0,28,10.7,0,0,0,0.3,50,MID,Simon Adingra
+137,Steven,Alzate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Steven Alzate
+138,Yasin,Ayari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Yasin Ayari
+139,Facundo,Buonanotte,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,MID,Facundo Buonanotte
+141,Mahmoud,Dahoud,0,0,4,95,1,40.1,13.2,5,0,15,5.7,1,0,1,0.1,49,MID,Mahmoud Dahoud
+143,Julio,Enciso,0,2,8,68,1,25,39,30,0,30,9.4,0,0,1,1.3,53,MID,Julio Enciso
+146,Billy,Gilmour,0,2,15,241,4,73.3,55.8,20,2,62,14.9,1,0,0,0.2,49,MID,Billy Gilmour
+147,Pascal,Grob,1,0,16,348,5,220.8,125.6,78,3,78,42.4,1,0,1,2.4,64,MID,Pascal Groß
+150,Kacper,Kozłowski,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Kacper Kozłowski
+151,Adam,Lallana,0,0,2,48,2,27.9,8.2,8,0,6,4.4,0,0,1,0.1,49,MID,Adam Lallana
+153,Solly,March,3,0,29,314,4,88.3,142.6,123,4,85,35.5,2,0,0,10.3,66,MID,Solly March
+155,James,Milner,0,0,5,214,4,29,26.2,2,0,34,5.7,1,0,2,0.2,49,MID,James Milner
+156,Kaoru,Mitoma,1,3,23,350,6,176.6,122.4,124,3,90,42.4,0,0,2,40.5,65,MID,Kaoru Mitoma
+157,Jakub,Moder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Jakub Moder
+158,Jeremy,Sarmiento Morante,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Jeremy Sarmiento Morante
+169,Jack,Hinshelwood,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Jack Hinshelwood
+170,Carlos,Baleba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Carlos Baleba
+171,Ansu,Fati,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,65,MID,Anssumane Fati Vieira
+172,Enock,Agyei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Enock Agyei
+174,Samuel,Bastien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Samuel Bastien
+175,Manuel Benson,Hedilazio,0,0,2,61,3,2.4,2,2,0,4,0.7,0,0,0,0.1,53,MID,Manuel Benson Hedilazio
+177,Josh,Brownhill,1,0,6,46,3,24.9,33.6,22,0,21,8.1,0,0,1,0.2,48,MID,Josh Brownhill
+178,Darko,Churlinov,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Darko Churlinov
+179,Jack,Cork,0,0,1,16,0,0.9,1.8,2,0,2,0.5,0,0,0,0,49,MID,Jack Cork
+180,Dara,Costelloe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Dara Costelloe
+181,Josh,Cullen,0,1,8,270,11,39.2,38,4,0,43,8.1,0,0,1,0.1,50,MID,Josh Cullen
+186,Jóhann Berg,Gudmundsson,0,1,4,90,3,56.3,30.4,6,0,17,9.3,0,0,1,0,49,MID,Jóhann Berg Gudmundsson
+196,Scott,Twine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Scott Twine
+200,Anass,Zaroury,0,0,-2,30,1,18.9,0,2,0,-6,1.7,0,1,0,0,49,MID,Anass Zaroury
+201,Sander,Berge,0,0,4,202,8,28.6,18.6,6,0,14,5.4,0,0,1,0.1,49,MID,Sander Berge
+204,Nathan,Redmond,0,0,3,53,2,15.8,9.2,4,0,10,2.9,0,0,0,0,49,MID,Nathan Redmond
+205,Luca,Koleosho,0,1,9,194,10,49.7,22,27,0,20,9.9,0,0,0,0,50,MID,Luca Koleosho
+206,Jacob,Bruun Larsen,0,0,3,60,1,23,6.4,25,0,6,5.2,0,0,0,0,49,MID,Jacob Bruun Larsen
+208,Wilson,Odobert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Wilson Odobert
+210,Aaron,Ramsey,0,0,1,22,0,1,1.2,0,0,3,0.2,0,0,0,0,50,MID,Aaron Ramsey
+211,Han-Noah,Massengo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Han-Noah Massengo
+212,Mike,Trésor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,MID,Mike Trésor
+213,Moises,Caicedo,0,0,6,195,2,13.9,29.2,5,0,27,4.5,1,0,0,2.4,49,MID,Moisés Caicedo Corozo
+225,Carney,Chukwuemeka,1,0,6,125,2,25.1,34.8,39,0,23,9.9,0,0,2,1.4,44,MID,Carney Chukwuemeka
+228,Enzo,Fernandez,0,0,5,360,5,193.3,65.6,61,0,42,31.7,1,0,2,4.1,50,MID,Enzo Fernández
+231,Conor,Gallagher,0,0,8,315,4,48.1,59,32,0,54,13.9,1,0,1,0.4,55,MID,Conor Gallagher
+235,Noni,Madueke,0,0,2,43,1,10.4,7.2,26,0,4,4.3,0,0,0,0.1,54,MID,Noni Madueke
+236,Mykhailo,Mudryk,0,0,3,67,2,40.2,11.2,24,0,15,7.6,0,0,0,0.9,64,MID,Mykhailo Mudryk
+239,Christian,Pulisic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,MID,Christian Pulisic
+242,Raheem,Sterling,2,1,25,350,5,109.7,103.6,167,3,82,38.1,1,0,0,16.4,72,MID,Raheem Sterling
+244,Hakim,Ziyech,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,54,MID,Hakim Ziyech
+245,Cole,Palmer,0,0,2,38,0,18,6,4,0,8,2.7,0,0,0,0.2,49,MID,Cole Palmer
+246,Ângelo Gabriel,Borges Damaceno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Ângelo Gabriel Borges Damaceno
+247,Ian,Maatsen,0,0,2,26,0,16.4,7.6,4,0,5,2.8,0,0,1,0.1,53,MID,Ian Maatsen
+249,Lesley,Ugochukwu,0,0,2,8,0,0.7,6.6,2,0,7,0.9,0,0,0,0.1,44,MID,Lesley Ugochukwu
+252,Romeo,Lavia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Roméo Lavia
+256,Diego Manuel Jadon,da Silva Moreira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Diego Manuel Jadon da Silva Moreira
+259,Naouirou,Ahamada,0,0,2,35,0,3.3,4.8,0,0,9,0.8,0,0,0,0.2,44,MID,Naouirou Ahamada
+261,Jordan,Ayew,0,2,14,360,4,94.7,74.6,132,0,34,30.2,1,0,1,0.5,55,MID,Jordan Ayew
+263,Cheick,Doucoure,0,0,8,360,4,44.8,60.8,17,0,58,12.4,1,0,1,0.1,50,MID,Cheick Doucouré
+264,Malcolm,Ebiowei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Malcolm Ebiowei
+266,Eberechi,Eze,1,0,15,360,4,192.7,101.6,128,1,75,42.3,1,0,0,9.9,63,MID,Eberechi Eze
+269,Will,Hughes,0,0,1,1,1,11.8,2,0,0,3,1.4,0,0,0,0,49,MID,Will Hughes
+271,Jefferson,Lerma Solís,0,0,9,360,4,79.6,72.8,54,0,60,20.7,1,0,0,0.3,49,MID,Jefferson Lerma Solís
+276,Michael,Olise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,59,MID,Michael Olise
+279,Jairo,Riedewald,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Jairo Riedewald
+280,Jeffrey,Schlupp,0,0,9,303,3,78.9,37.6,76,0,30,19.2,1,0,0,0.1,49,MID,Jeffrey Schlupp
+285,Matheus,França de Oliveira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Matheus França de Oliveira
+286,Jesurun,Rak-Sakyi,0,0,1,7,0,10.8,3,15,0,4,2.9,0,0,0,0,45,MID,Jesurun Rak-Sakyi
+288,André,Tavares Gomes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,44,MID,André Tavares Gomes
+292,Dele,Alli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Dele Alli
+293,Abdoulaye,Doucoure,1,0,14,360,8,86.1,75.6,165,2,44,32.7,0,0,1,0.2,55,MID,Abdoulaye Doucouré
+294,James,Garner,0,0,7,336,8,76,40.4,24,0,40,14,0,0,1,0,50,MID,James Garner
+295,Jean-Philippe,Gbamin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Jean-Philippe Gbamin
+297,Demarai,Gray,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,53,MID,Demarai Gray
+298,Idrissa,Gueye,0,0,6,315,6,26.3,44.2,6,0,51,7.6,0,0,1,0,49,MID,Idrissa Gueye
+301,Dwight,McNeil,0,0,1,15,0,2,0.6,2,0,-1,0.5,0,0,0,0,54,MID,Dwight McNeil
+303,Amadou,Onana,0,0,8,360,8,63.3,37.6,28,0,61,13,0,0,0,0.2,49,MID,Amadou Onana
+311,Arnaut,Danjuma Groeneveld,1,0,11,250,6,28.5,51.8,167,0,21,24.8,0,0,0,0.2,55,MID,Arnaut Danjuma Groeneveld
+312,Lewis,Dobbin,0,0,5,117,2,13,13.2,25,0,12,5.1,1,0,0,0.1,45,MID,Lewis Dobbin
+315,Tyler,Onyango,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,45,MID,Tyler Onyango
+316,Jack,Harrison,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,MID,Jack Harrison
+318,Alex,Iwobi,0,0,3,140,3,55.2,24.4,48,0,13,12.8,0,0,0,0.3,54,MID,Alex Iwobi
+319,Andreas,Hoelgebaum Pereira,1,1,15,251,7,41.8,39.6,17,0,44,9.8,1,0,1,1,55,MID,Andreas Hoelgebaum Pereira
+320,Tom,Cairney,0,0,3,99,2,14,1.8,5,0,11,2.1,0,0,0,0,50,MID,Tom Cairney
+321,Ivan,Neves Abreu Cavaleiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Ivan Neves Abreu Cavaleiro
+322,Bobby,De Cordova-Reid,1,1,14,272,8,15.6,43.2,96,0,42,15.2,0,0,1,0.2,55,MID,Bobby De Cordova-Reid
+324,Tyrese,Francois,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Tyrese Francois
+325,Anthony,Knockaert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Anthony Knockaert
+328,Saša,Lukić,0,0,6,250,4,30.9,20.6,9,0,31,6,1,0,1,0.5,45,MID,Saša Lukić
+332,Joao,Palhinha,1,0,10,113,3,4.5,58.6,22,3,33,8.6,0,0,1,0.2,50,MID,João Palhinha Gonçalves
+334,Harrison,Reed,0,1,10,266,8,61.4,48.4,4,0,49,11.4,1,0,1,0.6,48,MID,Harrison Reed
+340,Harry,Wilson,0,0,9,330,8,56.3,21.8,34,0,30,10.9,1,0,0,0.2,54,MID,Harry Wilson
+342,Willian,Borges da Silva,0,0,2,84,2,14.4,3,1,0,3,1.7,0,0,1,0.3,53,MID,Willian Borges da Silva
+346,Matthew,Dibley-Dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Matthew Dibley-Dias
+347,Adama,Traore,0,0,3,32,3,0.4,5.2,21,0,4,2.6,0,0,0,0.1,50,MID,Adama Traoré
+348,Luke,Harris,0,0,2,74,5,0.7,3.2,17,0,2,2.1,0,0,0,0,45,MID,Luke Harris
+355,Stefan,Bajcetic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,MID,Stefan Bajcetic
+357,Diogo,Teixeira da Silva,1,2,18,197,2,51.3,48.6,116,2,52,21.6,0,0,1,2.8,80,MID,Diogo Teixeira da Silva
+358,Harvey,Elliott,0,0,4,85,0,16.3,12.2,6,0,15,3.5,0,0,0,0.2,49,MID,Harvey Elliott
+359,Fabio Henrique,Tavares,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Fabio Henrique Tavares
+362,Jordan,Henderson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Jordan Henderson
+363,Curtis,Jones,0,0,4,87,0,3.6,7.6,2,0,12,1.3,1,0,0,0.1,49,MID,Curtis Jones
+366,Luis,Diaz,2,0,19,257,3,48.3,74.2,91,1,54,21.3,1,0,0,12.9,77,MID,Luis Díaz
+367,Alexis,Mac Allister,0,0,4,309,3,33.3,45.6,0,0,36,7.9,1,1,1,5.3,60,MID,Alexis Mac Allister
+371,Mohamed,Salah,2,2,23,341,3,101.2,131.8,222,0,75,45.5,1,0,0,25.8,125,MID,Mohamed Salah
+372,Dominik,Szoboszlai,1,1,19,360,3,104.2,71,49,2,86,22.4,1,0,0,4.3,70,MID,Dominik Szoboszlai
+373,Thiago,Alcantara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,49,MID,Thiago Alcántara do Nascimento
+378,Bobby,Clark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Bobby Clark
+379,Ben,Doak,0,0,1,13,0,0.8,0.2,0,0,3,0.1,0,0,0,0.1,45,MID,Ben Doak
+380,James,McConnell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,James McConnell
+381,Wataru,Endo,0,0,3,87,1,2.1,14.2,0,0,14,1.6,0,0,0,0.1,55,MID,Wataru Endo
+382,Ryan,Gravenberch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Ryan Gravenberch
+383,Albert,Sambi Lokonga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Albert Sambi Lokonga
+384,Marvelous,Nakamba,0,0,4,270,9,61.1,40,2,0,37,10.3,0,0,2,1,44,MID,Marvelous Nakamba
+388,Luke,Berry,0,0,1,2,1,0,0,0,0,3,0,0,0,0,0,48,MID,Luke Berry
+390,Allan,Campbell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Allan Campbell
+391,Jordan,Clark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Jordan Clark
+393,Luke,Freeman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Luke Freeman
+396,Carlos,Mendes Gomes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Carlos Mendes Gomes
+400,Fred,Onyedinma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Fred Onyedinma
+403,Dion,Pereira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Dion Pereira
+405,Glen,Rea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Glen Rea
+408,Elliot,Thorpe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Elliot Thorpe
+410,Louie,Watson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,44,MID,Louie Watson
+415,Pelly Ruddock,Mpanzu,0,0,4,119,4,2,2.2,20,0,4,2.2,0,0,0,0,49,MID,Pelly Ruddock Mpanzu
+416,Tahith,Chong,0,0,6,246,7,8.3,11.8,17,0,8,3.4,0,0,0,0.1,50,MID,Tahith Chong
+419,Ross,Barkley,0,0,4,146,4,64.8,10.2,17,0,17,8.9,0,0,0,0.1,50,MID,Ross Barkley
+427,Bernardo,Veiga de Carvalho e Silva,0,0,5,194,1,69.9,22.2,10,0,27,10.2,1,0,1,1.9,64,MID,Bernardo Veiga de Carvalho e Silva
+428,Oscar,Bobb,0,0,1,1,0,0.8,2.4,2,0,5,0.5,0,0,0,0,44,MID,Oscar Bobb
+431,Shea,Charles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Shea Charles
+432,Kevin,De Bruyne,0,0,1,22,0,18.8,2.4,1,0,4,2.2,0,0,0,2,102,MID,Kevin De Bruyne
+435,Phil,Foden,0,3,21,273,1,167.1,92,82,3,78,34.2,2,0,0,13.8,76,MID,Phil Foden
+436,Jack,Grealish,0,1,10,180,1,83.4,44.4,52,2,40,18,1,0,0,3.6,73,MID,Jack Grealish
+438,Mateo,Kovacic,0,0,10,325,2,72.6,39.8,18,0,69,13.1,2,0,0,0.9,49,MID,Mateo Kovačić
+441,Riyad,Mahrez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,75,MID,Riyad Mahrez
+443,Máximo,Perrone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Máximo Perrone
+444,Kalvin,Phillips,0,0,1,6,0,0.9,4.2,0,0,6,0.5,0,0,0,0,49,MID,Kalvin Phillips
+445,Rodrigo,Hernandez,2,1,27,345,2,55.3,150.4,103,5,107,30.9,2,0,1,12.6,57,MID,Rodrigo Hernandez
+450,Matheus Luiz,Nunes,0,0,1,180,5,45.8,29.4,14,0,15,8.9,0,1,0,0.1,50,MID,Matheus Luiz Nunes
+452,Jeremy,Doku,0,0,2,75,1,6.8,12,0,0,9,1.9,0,0,0,0.1,65,MID,Jérémy Doku
+453,Mason,Mount,0,0,5,151,2,30,11,2,0,16,4.3,1,0,0,1.2,68,MID,Mason Mount
+455,Amad,Diallo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Amad Diallo
+456,Antony Matheus,dos Santos,0,0,8,308,4,96.8,33.6,63,0,31,19.3,1,0,1,1,68,MID,Antony Matheus dos Santos
+457,Bruno,Borges Fernandes,1,1,18,360,7,188.6,129,85,3,75,40.1,1,0,2,21.5,84,MID,Bruno Borges Fernandes
+460,Carlos Henrique,Casimiro,1,0,14,360,7,40.4,126.6,90,0,60,25.7,1,0,0,3.9,54,MID,Carlos Henrique Casimiro
+462,Christian,Eriksen,1,1,18,226,6,57.8,92.6,37,4,68,18.8,0,0,0,0.5,59,MID,Christian Eriksen
+464,Frederico,Rodrigues de Paula Santos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,50,MID,Frederico Rodrigues de Paula Santos
+465,Alejandro,Garnacho,0,0,6,138,3,16.2,7.4,57,0,13,7.8,1,0,0,1.6,49,MID,Alejandro Garnacho
+466,Hannibal,Mejbri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Hannibal Mejbri
+470,Kobbie,Mainoo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Kobbie Mainoo
+474,Scott,McTominay,0,0,2,7,0,10.4,10.8,0,0,7,2.2,0,0,0,0.1,49,MID,Scott McTominay
+475,Facundo,Pellistri Rebollo,0,0,2,18,0,1.4,2.2,13,0,5,1.7,0,0,0,0.1,44,MID,Facundo Pellistri Rebollo
+477,Marcus,Rashford,1,2,19,351,7,67,78,144,0,42,28.9,1,0,1,35.9,89,MID,Marcus Rashford
+478,Jadon,Sancho,0,0,3,76,1,14.8,9.8,12,0,11,3.6,0,0,0,0.7,68,MID,Jadon Sancho
+481,Donny,van de Beek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Donny van de Beek
+486,Omari,Forson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Omari Forson
+488,Daniel,Gore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Daniel Gore
+491,Sofyan,Amrabat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Sofyan Amrabat
+493,Miguel,Almiron,0,0,7,317,5,53.2,20,64,0,35,13.6,0,0,0,5,64,MID,Miguel Almirón Rejala
+494,Elliot,Anderson,0,0,4,64,3,27.3,19.4,8,0,17,5.5,0,0,0,3.8,44,MID,Elliot Anderson
+497,Bruno,Guimaries,0,0,6,354,7,47.5,38.4,18,0,34,10.4,0,0,2,2.4,59,MID,Bruno Guimarães Rodriguez Moura
+501,Ryan,Fraser,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Ryan Fraser
+503,Anthony,Gordon,1,1,15,283,5,75,76.4,64,2,47,21.1,1,0,3,1.2,55,MID,Anthony Gordon
+504,Isaac,Hayden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Isaac Hayden
+505,Jeff,Hendrick,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Jeff Hendrick
+507,Joelinton Cássio,Apolinário de Lira,0,0,5,284,4,67.4,36.8,46,0,37,15,0,0,1,0.6,59,MID,Joelinton Cássio Apolinário de Lira
+509,Garang,Kuol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Garang Kuol
+512,Sean,Longstaff,0,1,7,88,4,35.1,40.8,26,0,27,10.3,0,0,0,0.2,49,MID,Sean Longstaff
+514,Jacob,Murphy,0,1,4,4,0,26.3,21.6,2,0,19,5,0,0,0,0.2,49,MID,Jacob Murphy
+516,Matt,Ritchie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,44,MID,Matt Ritchie
+517,Allan,Saint-Maximin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,MID,Allan Saint-Maximin
+520,Sandro,Tonali,1,0,11,284,3,49,59,50,0,51,15.9,1,0,2,3.1,55,MID,Sandro Tonali
+523,Joe,Willock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,54,MID,Joe Willock
+527,Harvey,Barnes,1,1,13,90,2,25.2,54,40,2,41,11.9,0,0,1,2.9,64,MID,Harvey Barnes
+530,Lewis,Miley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Lewis Miley
+533,Andrey,Nascimento dos Santos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Andrey Nascimento dos Santos
+534,Callum,Hudson-Odoi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Callum Hudson-Odoi
+535,Anthony,Elanga,1,1,13,85,0,22.1,67,57,1,47,14.7,0,0,0,0.8,50,MID,Anthony Elanga
+536,Brandon,Aguilera Zamora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Brandon Aguilera Zamora
+537,Harry,Arter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Harry Arter
+542,Josh,Bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Josh Bowler
+544,Danilo,dos Santos de Oliveira,0,0,7,285,6,25.6,20,12,0,30,5.9,0,0,0,0.1,54,MID,Danilo dos Santos de Oliveira
+548,Remo,Freuler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Remo Freuler
+549,Morgan,Gibbs-White,0,2,15,360,6,128.1,68.8,31,1,58,22.8,1,0,1,1.9,59,MID,Morgan Gibbs-White
+552,Cheikhou,Kouyate,0,0,3,39,1,10.7,20.6,3,0,14,3.4,0,0,1,0,49,MID,Cheikhou Kouyaté
+554,Orel,Mangala,0,0,6,228,3,12.3,16.4,1,0,5,3,1,0,1,0,50,MID,Orel Mangala
+557,Alex,Mighten,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Alex Mighten
+559,Lewis,O'Brien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Lewis O'Brien
+560,Braian,Ojeda Rodríguez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Braian Ojeda Rodríguez
+563,Gustavo Henrique,Furtado Scarpa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Gustavo Henrique Furtado Scarpa
+564,Jonjo,Shelvey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,Jonjo Shelvey
+571,Ryan,Yates,0,0,7,291,5,6,50.2,3,0,22,5.9,1,0,1,0,49,MID,Ryan Yates
+579,Nicolás,Domínguez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Nicolás Domínguez
+580,Ibrahim,Sangare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Ibrahim Sangaré
+584,James,McAtee,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,44,MID,James McAtee
+591,Ismaila,Coulibaly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Ismaila Coulibaly
+594,John,Fleck,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,MID,John Fleck
+601,Oliver,Norwood,0,0,7,349,6,85.4,71,11,0,61,16.8,0,0,1,0,50,MID,Oliver Norwood
+602,Ben,Osborn,0,0,4,192,3,9,20.6,5,0,18,3.4,0,0,1,0,49,MID,Ben Osborn
+605,Anis,Slimane,0,0,0,10,0,0,0,4,0,-2,0.3,0,0,1,0,49,MID,Anis Slimane
+608,Vini,de Souza Costa,0,0,5,247,5,15,42.2,20,0,26,7.7,0,0,1,0,50,MID,Vini de Souza Costa
+611,Andre,Brooks,0,0,2,19,1,1,2.8,2,0,6,0.6,0,0,0,0,45,MID,Andre Brooks
+613,Gustavo,Hamer,1,0,10,270,6,59.9,63.4,43,0,48,16.6,0,0,1,0.1,50,MID,Gustavo Hamer
+614,Tom,Davies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Tom Davies
+616,Brennan,Johnson,0,0,6,238,5,15,14.6,27,0,13,5.5,0,0,0,0.5,59,MID,Brennan Johnson
+618,Rodrigo,Bentancur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,MID,Rodrigo Bentancur
+619,Yves,Bissouma,0,0,9,343,4,48.6,102.8,46,0,66,19.7,2,0,1,0.6,50,MID,Yves Bissouma
+620,Bryan,Gil Salvatierra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Bryan Gil Salvatierra
+625,Pierre-Emile,Hojberg,0,0,2,66,1,8.3,16.8,0,0,13,2.6,0,0,1,0.3,53,MID,Pierre-Emile Højbjerg
+627,Dejan,Kulusevski,1,0,14,352,3,97.4,79.4,129,0,53,30.7,2,0,1,1.5,70,MID,Dejan Kulusevski
+629,Giovani,Lo Celso,0,0,1,16,0,13.8,3.2,4,0,8,2.1,0,0,0,0.1,48,MID,Giovani Lo Celso
+630,James,Maddison,2,2,29,337,3,168.4,162.2,171,4,109,50.1,2,0,1,26.2,78,MID,James Maddison
+631,Tanguy,Ndombélé Alvaro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,44,MID,Tanguy Ndombélé Alvaro
+634,Richarlison,de Andrade,0,0,6,236,3,27.4,22.4,74,0,-1,12.3,1,0,1,2,68,MID,Richarlison de Andrade
+638,Pape Matar,Sarr,1,1,16,215,1,54.1,84.4,134,2,63,27.4,1,0,1,3.3,45,MID,Pape Matar Sarr
+640,Oliver,Skipp,0,0,3,95,3,9.4,6,4,0,17,1.9,0,0,1,0.1,48,MID,Oliver Skipp
+641,Son,Heung-min,3,0,28,325,3,123.3,132,140,3,104,39.4,2,0,0,9.9,91,MID,Son Heung-min
+647,Manor,Solomon,0,2,11,69,1,55.4,51.2,24,2,41,13.1,0,0,0,0.2,53,MID,Manor Solomon
+655,Saïd,Benrahma,0,1,11,279,3,84.3,40.4,80,0,33,20.4,1,0,0,0.7,59,MID,Saïd Benrahma
+656,Jarrod,Bowen,3,1,30,360,4,61.6,147,177,5,91,38.5,0,0,1,9.8,71,MID,Jarrod Bowen
+657,Maxwel,Cornet,0,0,1,1,0,0,2.2,0,0,2,0.2,0,0,0,0.1,54,MID,Maxwel Cornet
+659,Conor,Coventry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Conor Coventry
+661,Flynn,Downes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Flynn Downes
+664,Pablo,Fornals Malla,0,0,5,124,2,26,17.6,34,0,17,7.8,0,0,0,0.1,49,MID,Pablo Fornals Malla
+669,Lucas,Tolentino Coelho de Lima,1,1,15,354,3,105.8,107.8,61,0,68,27.5,1,0,2,1.9,60,MID,Lucas Tolentino Coelho de Lima
+671,Tomas,Soucek,0,1,10,218,2,42,64.6,22,2,43,12.9,0,0,0,0.8,50,MID,Tomáš Souček
+672,Nikola,Vlašić,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,45,MID,Nikola Vlašić
+675,Edson,Alvarez,0,0,4,182,2,14.5,49.4,5,0,26,6.8,0,0,1,0.1,50,MID,Edson Álvarez Velázquez
+677,James,Ward-Prowse,1,3,22,260,3,48.6,123.6,53,3,87,22.5,0,0,1,6.7,61,MID,James Ward-Prowse
+679,Mohammed,Kudus,0,0,1,1,1,0,3,0,0,5,0.3,0,0,0,0.2,65,MID,Mohammed Kudus
+680,Tommy,Doyle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,MID,Tommy Doyle
+685,Francisco Jorge,Tomás Oliveira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Francisco Jorge Tomás Oliveira
+686,Luke,Cundle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,MID,Luke Cundle
+689,Gonçalo Manuel,Ganchinho Guedes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,54,MID,Gonçalo Manuel Ganchinho Guedes
+690,Joe,Hodge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,44,MID,Joe Hodge
+692,Hwang,Hee-chan,2,0,13,137,3,21.8,72.2,68,0,49,16,0,0,1,0.1,54,MID,Hwang Hee-chan
+693,João Victor,Gomes da Silva,0,0,6,311,7,35.5,33,21,0,42,9,1,0,2,0.1,50,MID,João Victor Gomes da Silva
+695,Bruno,Cavaco Jordão,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,44,MID,Bruno Cavaco Jordão
+699,Mario,Lemina,0,0,7,360,8,35.6,53,28,0,52,11.7,1,0,2,0,50,MID,Mario Lemina
+700,Pedro,Lomba Neto,0,3,20,360,8,202.3,109.4,106,3,98,41.7,1,0,1,0.3,55,MID,Pedro Lomba Neto
+701,Daniel,Castelo Podence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,53,MID,Daniel Castelo Podence
+703,Pablo,Sarabia,0,1,9,172,1,99.9,46.8,44,0,33,19.1,1,0,0,0.2,50,MID,Pablo Sarabia
+707,Boubacar,Traore,0,0,1,16,2,2.1,1.4,2,0,2,0.6,0,0,0,0.4,44,MID,Boubacar Traoré
+711,Enso,González,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Enso González
+713,Jean-Ricner,Bellegarde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,MID,Jean-Ricner Bellegarde
